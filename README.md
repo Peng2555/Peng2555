@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 	<img src="https://metrics.lecoq.io/sun0225SUN?template=classic&config.timezone=Asia%2FShanghai">
 </div>
 
-<h1 align="center">
-	<a href="https://sunguoqi.com/">
-		<img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);小孙同学祝您今天愉快!&center=true&size=27">
-	</a>
+<h1 align="center" >
+        <img src="https://readme-typing-svg.herokuapp.com/?lines=欢迎来到小彭同学的生信实验室;小彭同学祝您今天愉快!&center=true&size=27">
+        <BR></BR>
+        <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome to Peng Lab;Have a good day!&center=true$size=30">
 </h1>

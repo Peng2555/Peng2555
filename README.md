@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 	<img src="https://metrics.lecoq.io/sun0225SUN?template=classic&config.timezone=Asia%2FShanghai">
 </div>
 
-<h1 align="center" >
+<div align="center" >
         <img src="https://readme-typing-svg.herokuapp.com/?lines=欢迎来到小彭同学的生信实验室;小彭同学祝您今天愉快!&center=true&size=27">
         <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome to Peng Lab;Have a good day!&center=true$size=27">
-</h1>
+</div>

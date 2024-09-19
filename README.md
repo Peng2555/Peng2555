@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 </div>
 
 <div align="center" >
-        <img src="https://readme-typing-svg.herokuapp.com/?lines=欢迎来到小彭同学的生信实验室;小彭同学祝您今天愉快!&center=true&size=27">
+        <img src="https://readme-typing-svg.herokuapp.com/?lines=欢迎来到小彭同学的生信实验室;小彭同学祝您实验顺利!&center=true&size=27">
         <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome to Peng Lab;Have a good day!&center=true$size=27">
 </div>

@@ -2,187 +2,189 @@
 
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,25:164e63,60:0f766e,100:84cc16&height=220&section=header&text=AI%20for%20Drug%20Discovery&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AIDD%20%7C%20Cyclic%20Peptides%20%7C%20Gene%20Editing%20Enzymes&descAlignY=58&descSize=18)
+![hero](https://capsule-render.vercel.app/api?type=waving&color=0:081c15,22:1b4332,48:2d6a4f,72:40916c,100:95d5b2&height=260&section=header&text=Designing%20Biology%20with%20Code&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AIDD%20%7C%20Cyclic%20Peptides%20%7C%20Gene%20Editing%20Enzymes&descAlignY=58&descSize=18)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&center=true&vCenter=true&width=980&lines=Building+reproducible+pipelines+for+AI-driven+drug+discovery;Using+computation+to+connect+sequence%2C+structure%2C+and+function;Exploring+cyclic+peptides%2C+therapeutic+design%2C+and+biological+screening)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1200&center=true&vCenter=true&width=980&lines=From+biological+questions+to+decision-ready+research+systems;Turning+sequence%2C+structure%2C+and+activity+into+actionable+insight;Building+reproducible+pipelines+for+AI-driven+drug+discovery)](https://git.io/typing-svg)
+
+<p>
+  <img src="https://img.shields.io/badge/Focus-AIDD-183a1d?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Cyclic%20Peptides-2d6a4f?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Gene%20Editing-40916c?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Style-Reproducible%20Research-74c69d?style=for-the-badge" />
+</p>
 
 </div>
 
-## About Me | 关于我
+## A Short Introduction | 一句话介绍
 
-I work at the intersection of **AI-driven drug discovery (AIDD)**, **computational biology**, and **research workflow engineering**.  
-我关注 **AI 驱动药物发现（AIDD）**、**计算生物学** 与 **科研流程工程化** 的交叉方向。
+I build computational systems for **AI-driven drug discovery**, with a current focus on **cyclic peptides**, **gene editing enzymes**, and **reproducible biological screening pipelines**.  
+我在做面向 **AI 驱动药物发现** 的计算系统，当前重点聚焦 **环肽药物**、**基因编辑酶** 与 **可复现生物筛选流程**。
 
-I enjoy turning complex biological questions into reproducible pipelines, interpretable analyses, and decision-ready research tools.  
-我希望把复杂的生物学问题转化为可复现的分析流程、可解释的结果，以及真正能支持科研决策的工具。
+I like research that does not stop at analysis, but becomes a usable workflow for the next experiment, the next model, and the next decision.  
+我希望研究工作不只停留在分析结果，而是能够沉淀成真正服务下一次实验、下一轮建模、下一步决策的工作流。
 
-## Research Interests | 研究兴趣
-
-- **Cyclic peptides / 环肽药物**: design, screening, permeability, optimization  
-  围绕环肽药物的设计、筛选、通透性预测与优化展开研究
-- **AIDD / AI 药物发现**: data-centric modeling, candidate prioritization, experiment-facing workflows  
-  关注以数据为中心的建模、候选分子优选，以及面向实验的工作流设计
-- **Gene editing enzymes / 基因编辑酶**: compact editors, screening logic, published dataset reanalysis  
-  聚焦小型编辑酶、筛选逻辑以及公开发表数据的再分析
-- **Reproducible computational biology / 可复现计算生物学**: auditable pipelines, structured outputs, research tooling  
-  强调流程可审计、结果结构化以及可长期复用的科研工具建设
-
-## Research Identity | 我的研究标签
+## Research Map | 研究地图
 
 <table>
   <tr>
-    <td width="33%" valign="top">
-      <h3>AI + Biology</h3>
-      <p>Using machine learning and data systems to accelerate molecular discovery.</p>
-      <p>用机器学习和数据系统加速分子发现与生物问题求解。</p>
+    <td width="50%" valign="top">
+      <h3>What I Work On</h3>
+      <p><strong>AIDD</strong><br/>Data-centric modeling, candidate prioritization, and experiment-aware workflows.</p>
+      <p><strong>Cyclic Peptides</strong><br/>Design, screening, permeability, developability, and structure-guided optimization.</p>
+      <p><strong>Gene Editing Enzymes</strong><br/>Compact systems, screening logic, guide activity, safety, and delivery-aware evaluation.</p>
     </td>
-    <td width="33%" valign="top">
-      <h3>Cyclic Peptides</h3>
-      <p>Interested in cyclic peptide therapeutics, binder design, and developability.</p>
-      <p>关注环肽治疗分子、结合分子设计与成药性相关问题。</p>
-    </td>
-    <td width="33%" valign="top">
-      <h3>Gene Editing</h3>
-      <p>Studying screening strategies and evidence-based prioritization for new editing enzymes.</p>
-      <p>研究新型基因编辑酶的筛选策略与证据驱动优选框架。</p>
+    <td width="50%" valign="top">
+      <h3>我在做什么</h3>
+      <p><strong>AI 药物发现</strong><br/>以数据为中心的建模、候选优选与面向实验的工作流设计。</p>
+      <p><strong>环肽药物</strong><br/>关注设计、筛选、通透性、成药性与结构指导优化。</p>
+      <p><strong>基因编辑酶</strong><br/>关注小型系统、筛选逻辑、guide 活性、安全性与递送约束。</p>
     </td>
   </tr>
 </table>
 
-## What I Am Building | 我正在做什么
+## Signature Themes | 核心主题
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>01<br/>Model-Guided Discovery</h3>
+      <p>Using machine learning to connect sequence, structure, and function for therapeutic discovery.</p>
+      <p>用机器学习连接序列、结构与功能，服务治疗分子发现。</p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>02<br/>Reproducible Pipelines</h3>
+      <p>Turning raw biological data into auditable workflows, structured outputs, and reusable research assets.</p>
+      <p>把原始生物数据转化为可审计流程、结构化结果与可复用科研资产。</p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>03<br/>Decision Systems</h3>
+      <p>Building systems that help prioritize experiments instead of merely producing figures.</p>
+      <p>构建真正帮助实验优先级判断的系统，而不只是生成图表。</p>
+    </td>
+  </tr>
+</table>
+
+## Current Buildboard | 当前构建中
 
 ```text
-AI-driven discovery stack
-|- data curation and reproducible pipelines
+Discovery Engine
+|- public dataset curation
 |- sequence / structure / activity modeling
-|- candidate prioritization for experiments
-|- interpretable analysis for biological decisions
-`- research tooling that stays useful after the paper
+|- peptide and enzyme candidate ranking
+|- experiment-facing reporting
+`- reproducible research infrastructure
 ```
 
 ```text
-我正在搭建的研究体系
-|- 数据整理与可复现流程
+当前研究系统
+|- 公开数据整理与质量控制
 |- 序列 / 结构 / 活性建模
-|- 面向实验的候选优选
-|- 面向决策的可解释分析
-`- 不止服务论文、也服务后续研究的工具链
+|- 环肽与编辑酶候选优选
+|- 面向实验的结果报告
+`- 可复现科研基础设施
 ```
 
-## Featured Directions | 重点方向
+## Bento View | 个人科研画像
 
-### 1. Cyclic Peptide Discovery | 环肽药物发现
+<table>
+  <tr>
+    <td width="58%" valign="top">
+      <h3>Scientific Direction | 科研方向</h3>
+      <p>
+        I am especially interested in problems where biological complexity meets modeling constraints:
+        cyclic peptide design, permeability and developability, compact gene editing systems, and ML-guided screening.
+      </p>
+      <p>
+        我尤其关注那些“生物复杂性”与“建模约束”交汇的问题，包括环肽设计、通透性与成药性、小型基因编辑系统，以及机器学习驱动的筛选策略。
+      </p>
+    </td>
+    <td width="42%" valign="top">
+      <h3>Keywords | 关键词</h3>
+      <p>AIDD</p>
+      <p>Cyclic peptides</p>
+      <p>Computational biology</p>
+      <p>Gene editing enzymes</p>
+      <p>Screening systems</p>
+      <p>Reproducible workflows</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="42%" valign="top">
+      <h3>What I Value | 我看重什么</h3>
+      <p>Clarity over complexity.</p>
+      <p>Reproducibility over one-off results.</p>
+      <p>Decision support over decorative analysis.</p>
+    </td>
+    <td width="58%" valign="top">
+      <h3>Working Style | 工作方式</h3>
+      <p>
+        Build small systems, validate assumptions, keep outputs structured, and make every project easier to continue than to restart.
+      </p>
+      <p>
+        用小而稳的系统推进项目，先验证假设，再扩展流程；让结果结构化，让每个项目都更容易延续，而不是反复重来。
+      </p>
+    </td>
+  </tr>
+</table>
 
-- Membrane permeability prediction and representation learning for cyclic peptides  
-  面向环肽分子的膜通透性预测与表示学习
-- Structure-aware design of peptide binders  
-  结合结构信息进行肽类结合分子设计
-- Connecting medicinal chemistry constraints with ML models  
-  让药化约束真正进入机器学习建模流程
+## Featured Project Directions | 代表项目方向
 
-### 2. AIDD Workflows | AIDD 工作流
+| Direction | Description |
+|---|---|
+| **Published gene editing enzyme reanalysis** | Reanalyzing published high-impact datasets to evaluate compact editing systems and screening priorities. |
+| **Cyclic peptide AIDD workflows** | Building candidate ranking pipelines for cyclic peptide design, screening, and optimization. |
+| **Bio-ML toolbox** | Creating reusable utilities for computational biology, benchmarking, visualization, and structured reporting. |
 
-- From raw data to model-ready datasets and reports  
-  从原始数据到可建模数据集与结果报告的完整流程
-- Practical ranking systems for experimental prioritization  
-  面向实验优先级排序的实用型评分系统
-- Integrating computation into decision-making rather than presentation only  
-  让计算结果进入决策，而不仅仅停留在展示层面
+| 方向 | 说明 |
+|---|---|
+| **已发表基因编辑酶数据再分析** | 对高水平公开数据进行再分析，用于评估小型编辑系统与筛选优先级。 |
+| **环肽 AIDD 工作流** | 构建面向环肽设计、筛选与优化的候选排序流程。 |
+| **生物计算工具箱** | 搭建可复用的计算生物学、基准评估、可视化与结构化报告工具。 |
 
-### 3. Gene Editing Enzyme Screening | 基因编辑酶筛选
+## Tech Palette | 技术栈
 
-- Reanalysis of published datasets from high-impact studies  
-  对高水平论文公开数据进行再分析与复核
-- Candidate evaluation for compact editors and programmable systems  
-  评估小型编辑系统和可编程编辑工具的候选价值
-- Activity, safety, and delivery-aware prioritization  
-  综合活性、安全性与递送约束进行优选
+<p>
+  <img src="https://img.shields.io/badge/Python-14213d?style=for-the-badge&logo=python&logoColor=ffd60a" />
+  <img src="https://img.shields.io/badge/R-1d3557?style=for-the-badge&logo=r&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-9d0208?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-f48c06?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-3c096c?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-005f73?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/RDKit-0a9396?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Jupyter-ca6702?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-7f5539?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/PowerShell-0d3b66?style=for-the-badge&logo=powershell&logoColor=white" />
+</p>
 
-## Selected Projects | 代表项目
-
-> Replace the repository links below with your real repositories.  
-> 请将下方仓库链接替换为你的真实项目地址。
-
-| Project | Focus | Highlights |
-|---|---|---|
-| [`published-gene-editing-enzyme-reanalysis`](https://github.com/Peng2555/published-gene-editing-enzyme-reanalysis) | Reproducible reanalysis of published editing-enzyme datasets | DOI-based source tracking, SHA256 validation, structured reports |
-| [`cyclic-peptide-aidd`](https://github.com/Peng2555/cyclic-peptide-aidd) | AI workflows for cyclic peptide screening and prioritization | Molecular features, ranking pipelines, experiment-facing outputs |
-| [`bio-ml-toolbox`](https://github.com/Peng2555/bio-ml-toolbox) | Reusable utilities for computational biology and model evaluation | Data processing, benchmarking, visualization templates |
-
-## Technical Toolkit | 技术栈
-
-### Languages and Core Stack | 核心语言与工具
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-### ML / Cheminformatics / Bioinformatics | 机器学习 / 化学信息学 / 生物信息学
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![RDKit](https://img.shields.io/badge/RDKit-0B7285?style=for-the-badge&logo=databricks&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
-## Current Focus | 当前关注
-
-- Building reproducible workflows for **AIDD and therapeutic discovery**  
-  构建服务于 **AIDD 与治疗分子发现** 的可复现流程
-- Learning from public datasets to guide **cyclic peptide** design  
-  借助公开数据支撑 **环肽药物** 设计决策
-- Connecting **model outputs** with **real experimental prioritization**  
-  把 **模型结果** 真正转化为 **实验优先级判断**
-- Developing an evidence-based framework for **screening new gene editing enzymes**  
-  建立面向 **新型基因编辑酶筛选** 的证据驱动框架
-
-## GitHub Snapshot | GitHub 概览
+## GitHub Signal | GitHub 画像
 
 <div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Peng2555&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Peng2555&layout=compact&hide_border=true&theme=transparent" />
-
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Peng2555&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Peng2555&layout=compact&hide_border=true&theme=transparent" />
 </div>
 
 <div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Peng2555&theme=transparent&hide_border=true" />
-
+  <img src="https://streak-stats.demolab.com?user=Peng2555&theme=transparent&hide_border=true" />
 </div>
 
-## Philosophy | 我对科研代码的理解
+## Philosophy | 研究观
 
 > Good research code should not only run once.  
 > It should be understandable, reproducible, and useful for the next decision.
 
-> 好的科研代码不应该只运行一次。  
-> 它还应该可理解、可复现，并能真正支持下一步决策。
+> 好的科研代码不应只运行一次。  
+> 它还应当可理解、可复现，并真正服务下一步决策。
 
-## Connect | 联系方式
+## Contact | 联系方式
 
 - GitHub: [@Peng2555](https://github.com/Peng2555)
 - Email: `1733317481@qq.com`
 - ORCID: `<YOUR_ORCID_LINK>`
 - Google Scholar: `<YOUR_SCHOLAR_LINK>`
-- Personal Website or Lab Page: `<YOUR_WEBSITE>`
-
----
-
-## Notes | 使用说明
-
-- This README is designed for a GitHub profile repository named exactly `Peng2555/Peng2555`.  
-  这份 README 适用于 GitHub 个人主页仓库，也就是名字必须是 `Peng2555/Peng2555`。
-- Replace the remaining placeholders if you want to show ORCID, Google Scholar, or your website.  
-  如果你想展示 ORCID、Google Scholar 或个人主页，请把剩余占位符替换成真实链接。
-- If you prefer a more academic style, I can also simplify this into a cleaner, publication-oriented version.  
-  如果你更想要学术简洁风，我也可以继续替你改成更偏论文作者主页的版本。
+- Website or Lab Page: `<YOUR_WEBSITE>`
 
 <div align="center">
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:84cc16,40:0f766e,75:164e63,100:0f172a&height=120&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:95d5b2,38:52b788,72:2d6a4f,100:081c15&height=130&section=footer)
 
 </div>
